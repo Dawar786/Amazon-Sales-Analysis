@@ -25,7 +25,7 @@ The goal of this project is to provide clear insights into Amazon’s sales dyna
 ---
 
 ## 📂 Repository Structure
-- `Amazon_Sales_Analysis.xlsx` → Main Excel file with analysis  
+- `SALES_ANALYSIS.xlsx` → Main Excel file with analysis  
 - `README.md` → Project documentation  
 
 ---
